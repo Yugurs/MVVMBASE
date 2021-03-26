@@ -1,0 +1,2 @@
+include ':baselib', ':app'
+rootProject.name = "MVVMBASE"

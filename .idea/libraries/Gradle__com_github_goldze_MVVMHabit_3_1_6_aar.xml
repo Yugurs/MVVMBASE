@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.goldze:MVVMHabit:3.1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4145c159f1b3ac99d3ab99f18c71aa04/jetified-MVVMHabit-3.1.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4145c159f1b3ac99d3ab99f18c71aa04/jetified-MVVMHabit-3.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4145c159f1b3ac99d3ab99f18c71aa04/jetified-MVVMHabit-3.1.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.goldze/MVVMHabit/3.1.6/70e5c33a43159bbe7f75a1aef2ce113775d69b0c/MVVMHabit-3.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

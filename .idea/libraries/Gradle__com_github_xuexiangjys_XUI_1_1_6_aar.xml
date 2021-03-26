@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xuexiangjys:XUI:1.1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/618fbcfac1ac25c0f26a5bfb698e2bf6/jetified-XUI-1.1.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/618fbcfac1ac25c0f26a5bfb698e2bf6/jetified-XUI-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/618fbcfac1ac25c0f26a5bfb698e2bf6/jetified-XUI-1.1.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xuexiangjys/XUI/1.1.6/f4346507f9e00f8ea793fa78bd860f556f48b801/XUI-1.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xuexiangjys/XUI/1.1.6/d735bb1337283c09cd9ec666f8a6166647008c34/XUI-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
